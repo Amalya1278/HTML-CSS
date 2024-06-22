@@ -1,0 +1,33 @@
+body{
+    background-color: lightgrey;
+}
+header{
+    background-color: bisque;
+    text-align: center;
+    color: rgb(13, 2, 96);
+    font-weight: bold;
+}
+
+
+header nav ul li {
+   display: inline;
+    margin: 0 10px;
+}
+
+
+#profile img{
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+#biography  {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#hobbies ul li {
+    margin-bottom: 10px;
+}
+#hobbies ul li:hover {
+    color: #3f0de3; 
+}
