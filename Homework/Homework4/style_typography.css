@@ -1,0 +1,20 @@
+
+ @import url('https://fonts.google.com/specimen/Ubuntu');
+body{
+    font-size: large;
+    background-color: aliceblue;
+    letter-spacing: 2.5px;
+    line-height: normal;
+}
+h1{
+    font-family:'Ubuntu', sans-serif;
+    color: rgb(3, 12, 137);
+}
+h3{
+    font-family:'Ubuntu', sans-serif;
+    color: rgb(3, 12, 137);
+}
+h2{
+    font-family:'Ubuntu' sans-serif;
+    color: rgb(3, 12, 137);
+}
